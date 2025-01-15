@@ -1,2 +1,1 @@
-# LabTest_04
-Lab exam 04 repo
+inventory management system using kotlin language
